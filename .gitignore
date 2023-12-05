@@ -1,0 +1,6 @@
+# .eslint
+
+node_modules
+database.json
+build/
+dist/
